@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7E653F1C-BDCA-41C1-8638-52A39F6BC310}|Default">
+  <MonoDevelop.Ide.ItemProperties.HiratsukaTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6A1937A7-CAB4-4F4C-8680-392CD2C43427" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HiratsukaTest.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="HiratsukaTest.iOS/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HiratsukaTest" expanded="True" selected="True">
+            <Node name="HiratsukaTest" expanded="True" />
+            <Node name="HiratsukaTest.Android" expanded="True" />
+            <Node name="HiratsukaTest.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HiratsukaTest.Android PreferredExecutionTarget="Android.Pixel_-XL-API-R" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
